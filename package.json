@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "express": "~3.4.8",
+    "nodemon": "~1.0.14"
+  }
+}
